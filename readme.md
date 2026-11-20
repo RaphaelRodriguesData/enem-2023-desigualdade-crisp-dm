@@ -65,9 +65,8 @@ A partir da base pública do INEP (1,78 GB, 76 colunas), realizou-se a leitura o
 ├── dashboard/
 │   └── dashboard_enem_2023.pbix    # Painel interativo desenvolvido no Power BI
 ├── docs/
-│   ├── Relatorio_Capstone_CCD210.pdf
+│   ├── ORelatorio_Capstone_CCD210.pdf
 │   └── Apresentacao_ENEM_2023.pdf
-├── assets/                         # Gráficos exportados para documentação
 └── README.md
 ```
 
