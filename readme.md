@@ -94,6 +94,6 @@ A partir da base pública do INEP (1,78 GB, 76 colunas), realizou-se a leitura o
 
 ## 👥 Autor
 
-* **Raphael Rodrigues de Oliveira** — [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/raphael-rodrigues-de-oliveira-9311422a0/))
+* **Raphael Rodrigues de Oliveira** — [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/raphael-rodrigues-de-oliveira-9311422a0/)
 
 *Centro Universitário FEI — São Bernardo do Campo, SP*
